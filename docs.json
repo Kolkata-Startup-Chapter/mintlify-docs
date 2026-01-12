@@ -10,7 +10,7 @@
   "favicon": "/favicon.svg",
   "navigation": {
     "pages": [
-      "index-mdx"
+      "index"
     ]
   },
   "logo": {
