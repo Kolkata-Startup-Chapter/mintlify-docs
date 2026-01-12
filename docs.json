@@ -18,12 +18,7 @@
     "dark": "/logo/dark.png"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Connect with us",
-        "href": "https://www.google.com"
-      }
-    ],
+    "links": [],
     "primary": {
       "type": "button",
       "label": "Connect with us",
