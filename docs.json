@@ -18,7 +18,12 @@
     "dark": "/logo/dark.png"
   },
   "navbar": {
-    "links": [],
+    "links": [
+      {
+        "label": "Join us",
+        "href": "https://forms.gle/SbRxxtYMymWEhpTr5 "
+      }
+    ],
     "primary": {
       "type": "button",
       "label": "Connect with us",
